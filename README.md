@@ -11,6 +11,7 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 * [In Class Code 2.2, Hello World](https://gist.github.com/cingh-jasdeep/0b42682eb7666c6087fd3f7627c8527b)
 * [In Class Code 2.3, Scaffold app](https://gist.github.com/cingh-jasdeep/d1a7d8efb14df49337115d4c123b5dfe)
 * [In Class Code Challenge 4.1c](https://gist.github.com/cingh-jasdeep/9f329b80f34ae91ac19d7fa73bb129ac)
+* [In Class Starter Code 5.1](https://gist.github.com/cingh-jasdeep/806d7c4783ad4fb69ac3aa2fae8c05db)
 
 
 ### Lecture Slides
