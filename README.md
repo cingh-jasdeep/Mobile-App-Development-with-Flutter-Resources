@@ -84,7 +84,7 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 
 ### Dicee - Building Apps with State
 
-* [Dicee Stub Project](https://github.com/londonappbrewery/dicee-flutter)
+* [Dicee Stub Project](https://github.com/cingh-jasdeep/dicee-flutter)
 * [Expanded Class](https://docs.flutter.io/flutter/widgets/Expanded-class.html)
 * [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
 * [FlatButton Documentation](https://docs.flutter.io/flutter/material/FlatButton-class.html)
