@@ -105,7 +105,7 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 
 ### Xylophone - Using Flutter and Dart Packages to Speed Up Development
 
-* [XyloPhone Stub Project](https://github.com/londonappbrewery/xylophone-flutter)
+* [XyloPhone Stub Project](https://github.com/cingh-jasdeep/xylophone-flutter)
 * [Flutter Packages](https://pub.dartlang.org/flutter)
 * [Guide to Using Flutter Packages](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
 * [Luan Nico's Audioplayers Package](https://pub.dartlang.org/packages/audioplayers)
