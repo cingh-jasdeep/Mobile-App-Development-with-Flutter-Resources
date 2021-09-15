@@ -3,6 +3,10 @@ Fall 2021, Eternal University, Baru Sahib, HP
 
 src: https://github.com/londonappbrewery/Flutter-Course-Resources
 
+### Assignments
+* [Assignment#1](https://drive.google.com/file/d/1Mp2m2apL6nxXOL65MmSmueY6d0tJAWyq/view)
+
+
 ### In Class Code 
 * [In-Class Exercise 1.1 - Lego Blocks Counter - Starter Code
 ](https://gist.github.com/cingh-jasdeep/45e77c49727e908b2a5ade852589ab46)
@@ -22,8 +26,7 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 * [Lecture#5](https://docs.google.com/presentation/d/1S-Um__APBP22x1ad26IQylb5fdY-YSGP8v8zk4_iZvk/edit)
 * [Lecture#6](https://docs.google.com/presentation/d/1AdChnBW2iaRROs39UU2Wj4F3TZjKsjgAvTFNwMdLask/edit)
 * [Lecture#7](https://docs.google.com/presentation/d/1NyFKAxSDnz4P7gAZYtj_ndkeEaUa18o4XeefL0l01Bc/edit)
-
-
+* [Lecture#8](https://docs.google.com/presentation/d/1DxBA9WZ6M78kx-Wd521vedAbFk2JAxjpco8VSw47YL4/edit)
 
 ### Introduction to Cross-Platform Development with Flutter and Dart
 
