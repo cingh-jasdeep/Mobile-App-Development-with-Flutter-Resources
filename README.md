@@ -30,6 +30,7 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 * [Lecture#7](https://docs.google.com/presentation/d/1NyFKAxSDnz4P7gAZYtj_ndkeEaUa18o4XeefL0l01Bc/edit)
 * [Lecture#8](https://docs.google.com/presentation/d/1DxBA9WZ6M78kx-Wd521vedAbFk2JAxjpco8VSw47YL4/edit)
 * [Lecture#9](https://docs.google.com/presentation/d/1QoX6YoMSX_QdGFcU0UfWkczs-GUdla2ylwhFJGcxiGg/edit)
+* <a href="https://docs.google.com/presentation/d/1GKXxaQBDSBZrkhN6n3hYWbdidxJhvVxPfQzuI4Aqjfo/edit" target="_blank">Lecture#10</a>
 
 ### Introduction to Cross-Platform Development with Flutter and Dart
 
