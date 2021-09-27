@@ -29,7 +29,7 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 * [Lecture#6](https://docs.google.com/presentation/d/1AdChnBW2iaRROs39UU2Wj4F3TZjKsjgAvTFNwMdLask/edit)
 * [Lecture#7](https://docs.google.com/presentation/d/1NyFKAxSDnz4P7gAZYtj_ndkeEaUa18o4XeefL0l01Bc/edit)
 * [Lecture#8](https://docs.google.com/presentation/d/1DxBA9WZ6M78kx-Wd521vedAbFk2JAxjpco8VSw47YL4/edit)
-* [Lecture#9,10,11,12](https://docs.google.com/presentation/d/1sb4OEsG17AMLQpa4gi7geCmwuS79Exr-OYGqDWiIhtI/edit)
+* [Lecture#9,10,11,12,13](https://docs.google.com/presentation/d/1sb4OEsG17AMLQpa4gi7geCmwuS79Exr-OYGqDWiIhtI/edit)
   * same due to Assignment# 2 inclass
 
 ### Introduction to Cross-Platform Development with Flutter and Dart
