@@ -18,6 +18,7 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 * [In Class Code 2.3, Scaffold app](https://gist.github.com/cingh-jasdeep/d1a7d8efb14df49337115d4c123b5dfe)
 * [In Class Code Challenge 4.1c](https://gist.github.com/cingh-jasdeep/9f329b80f34ae91ac19d7fa73bb129ac)
 * [In Class Starter Code 5.1](https://gist.github.com/cingh-jasdeep/806d7c4783ad4fb69ac3aa2fae8c05db)
+* [In Class Starter Code 5.1](https://gist.github.com/cingh-jasdeep/806d7c4783ad4fb69ac3aa2fae8c05db)
 
 
 ### Lecture Slides
@@ -31,6 +32,7 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 * [Lecture#8](https://docs.google.com/presentation/d/1DxBA9WZ6M78kx-Wd521vedAbFk2JAxjpco8VSw47YL4/edit)
 * [Lecture#9,10,11,12,13](https://docs.google.com/presentation/d/1sb4OEsG17AMLQpa4gi7geCmwuS79Exr-OYGqDWiIhtI/edit)
   * same due to Assignment# 2 inclass
+* [Lecture#14](https://docs.google.com/presentation/d/1HY7hQkdkMAYTzu0cz9NLxNXtJqy1hTQnHCGLI9L2FV0/edit)
 
 ### Introduction to Cross-Platform Development with Flutter and Dart
 
