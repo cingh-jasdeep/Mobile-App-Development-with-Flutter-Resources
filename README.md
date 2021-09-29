@@ -242,6 +242,15 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 * [The InheritedWidget Class](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
 * [Todoey Completed Project](https://github.com/londonappbrewery/todoey-flutter)
 
+### Extra exercises for fast students :pray:
+Layout
+* https://flutter.dev/docs/development/ui/layout/tutorial
+* https://meysam-mahfouzi.medium.com/flutter-layout-challenge-squares-3d0bc4c78793
+
+Dart
+* https://exercism.org/tracks/dart/exercises/hello-world
+
+
 
 
 
