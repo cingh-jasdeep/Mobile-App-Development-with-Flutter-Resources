@@ -115,6 +115,7 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 
 * [XyloPhone Stub Project](https://github.com/cingh-jasdeep/xylophone-flutter)
 * [Flutter Packages](https://pub.dartlang.org/flutter)
+* [Tested Flutter Packages by codemagic](https://pub.green/)
 * [Guide to Using Flutter Packages](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
 * [Luan Nico's Audioplayers Package](https://pub.dartlang.org/packages/audioplayers)
 * [AudioCache Documentation](https://github.com/luanpotter/audioplayers/blob/master/doc/audio_cache.md)
