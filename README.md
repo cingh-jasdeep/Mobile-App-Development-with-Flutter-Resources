@@ -244,6 +244,11 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 * [The InheritedWidget Class](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
 * [Todoey Completed Project](https://github.com/londonappbrewery/todoey-flutter)
 
+
+### Flutter Online Resources
+[EBook:FLUTTER LIBRARIES WE LOVE by Codemagic](https://blog.codemagic.io/flutter-libraries-ebook-by-codemagic/ebook-flutter-libraries-we-love-by-codemagic.pdf)
+[Flutter Books](https://flutter.dev/docs/resources/books)
+
 ### Extra exercises for fast students :pray:
 Layout
 * https://flutter.dev/docs/development/ui/layout/tutorial
