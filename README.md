@@ -126,6 +126,8 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 ### Quizzler - Modularising & Organising Flutter Code
 
 * [Quizzler Stub Project](https://github.com/cingh-jasdeep/quizzler-flutter)
+* [8-bit Binary Converter](https://www.cs.princeton.edu/courses/archive/fall07/cos109/bc.html)
+* [Learn The Four Pillars of Object Oriented Programming (OOP)](https://medium.com/@simba3310/learn-the-four-pillars-of-object-oriented-programming-oop-f2358e1aa623)
 * [List Gist for DartPad List Practice](https://gist.github.com/angelabauer/f9db1b64cf51623d42b1ac1722bd016c)
 * [Dart List Language Tour](https://www.dartlang.org/guides/libraries/library-tour#collections)
 * [RFlutter Alert Package](https://pub.dartlang.org/packages/rflutter_alert)
