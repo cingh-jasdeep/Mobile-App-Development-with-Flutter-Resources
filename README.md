@@ -132,6 +132,7 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 * [Dart List Language Tour](https://www.dartlang.org/guides/libraries/library-tour#collections)
 * [RFlutter Alert Package](https://pub.dartlang.org/packages/rflutter_alert)
 * [Dart Constructors](https://www.dartlang.org/guides/language/language-tour#constructors)
+* [Todo Tree VSCode Extenstion](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 * [Quizzler Starting File for Challenge](https://github.com/cingh-jasdeep/quizzler-flutter-challenge-starting)
 * [Quizzler Solution & Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
 
