@@ -6,7 +6,7 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 ### Assignments
 * [Assignment#1](https://drive.google.com/file/d/1Mp2m2apL6nxXOL65MmSmueY6d0tJAWyq/view)
 * [Assignment#2](https://docs.google.com/document/d/1VIxE4wuo9SqgeAtnfNsVqatxvxx3oUX3T_T87H8QyHA/edit?usp=sharing)
-
+* [Assignment#3](https://docs.google.com/document/d/1g8mrFeceg0hW17_SsFLe5pqwakUYlQrKPQjYJnha_L4/edit?usp=sharing)
 
 
 ### In Class Code 
