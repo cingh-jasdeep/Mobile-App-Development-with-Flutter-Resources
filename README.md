@@ -138,7 +138,7 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 
 ### Destini - App Assignment #3
 
-* [Destini Stub](https://github.com/londonappbrewery/destini-challenge-starting)
+* [Destini Stub](https://github.com/cingh-jasdeep/destini-challenge-starting)
 
 ### BMI Calculator - Building Flutter UIs for Intermediates
 
