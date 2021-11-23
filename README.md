@@ -156,7 +156,6 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 * [When to Use Keys - Flutter Widgets 101 Ep. 4](https://www.youtube.com/watch?v=kn0EOS-ZiIc)
 * [Dart Language Tour: Final and Const](https://www.dartlang.org/guides/language/language-tour#final-and-const)
 * [Dart Null Safety](https://dart.dev/null-safety)
-
 * [Font Awesome Flutter Package](https://pub.dartlang.org/packages/font_awesome_flutter)
 * [The GestureDetector Class](https://docs.flutter.io/flutter/widgets/GestureDetector-class.html)
 * [Slider Class](https://docs.flutter.io/flutter/material/Slider-class.html)
