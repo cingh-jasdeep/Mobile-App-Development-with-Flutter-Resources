@@ -163,7 +163,7 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 * [ShapeBorder Class](https://api.flutter.dev/flutter/painting/ShapeBorder-class.html)
 * [RawMaterialButton Class](https://api.flutter.dev/flutter/material/RawMaterialButton-class.html)
 * [Navigating between Screens on Flutter](https://flutter.dev/docs/cookbook/navigation/navigation-basics)
-* [LAB Navigation Demo](https://github.com/londonappbrewery/Navigation-Flutter-Demo)
+* [Navigation Exercise](https://github.com/cingh-jasdeep/Navigation-Flutter-Demo)
 * [Navigate with Named Routes](https://flutter.dev/docs/cookbook/navigation/named-routes)
 * [Definition of the Body Mass Index (BMI)](https://en.wikipedia.org/wiki/Body_mass_index)
 * [BMI Completed Project](https://github.com/londonappbrewery/BMI-Calculator-Completed)
