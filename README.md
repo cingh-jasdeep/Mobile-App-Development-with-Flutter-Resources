@@ -22,19 +22,20 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 
 
 ### Lecture Slides
-* [Lecture#1](https://docs.google.com/presentation/d/17E1iOGQK41FX6WrAGvOU_KVW59a7Gh5LynuTxCdfguQ/edit)
-* [Lecture#2](https://docs.google.com/presentation/d/1JLm-Z6sJ9H3KoKOzsvYanZx-8c1oU3dJDtDMIqi6M34/edit)
-* [Lecture#3](https://docs.google.com/presentation/d/1RetKleGwCzp-n8G1TzL816RujmVmqKjHqKdDj4lWUXs/edit)
-* [Lecture#4](https://docs.google.com/presentation/d/1jXh-gusNqylrMaWw8QN2XnMiBdD6ebCuiVpv3eDPbho/edit)
-* [Lecture#5](https://docs.google.com/presentation/d/1S-Um__APBP22x1ad26IQylb5fdY-YSGP8v8zk4_iZvk/edit)
-* [Lecture#6](https://docs.google.com/presentation/d/1AdChnBW2iaRROs39UU2Wj4F3TZjKsjgAvTFNwMdLask/edit)
-* [Lecture#7](https://docs.google.com/presentation/d/1NyFKAxSDnz4P7gAZYtj_ndkeEaUa18o4XeefL0l01Bc/edit)
-* [Lecture#8](https://docs.google.com/presentation/d/1DxBA9WZ6M78kx-Wd521vedAbFk2JAxjpco8VSw47YL4/edit)
-* [Lecture#9,10,11,12,13](https://docs.google.com/presentation/d/1sb4OEsG17AMLQpa4gi7geCmwuS79Exr-OYGqDWiIhtI/edit)
+* [Lecture#1 - Introduction](https://docs.google.com/presentation/d/17E1iOGQK41FX6WrAGvOU_KVW59a7Gh5LynuTxCdfguQ/edit)
+* [Lecture#2 - I am Rich](https://docs.google.com/presentation/d/1JLm-Z6sJ9H3KoKOzsvYanZx-8c1oU3dJDtDMIqi6M34/edit)
+* [Lecture#3 - Mi Card](https://docs.google.com/presentation/d/1RetKleGwCzp-n8G1TzL816RujmVmqKjHqKdDj4lWUXs/edit)
+* [Lecture#4 - Mi Card Contd.](https://docs.google.com/presentation/d/1jXh-gusNqylrMaWw8QN2XnMiBdD6ebCuiVpv3eDPbho/edit)
+* [Lecture#5 - Mi Card Contd.](https://docs.google.com/presentation/d/1S-Um__APBP22x1ad26IQylb5fdY-YSGP8v8zk4_iZvk/edit)
+* [Lecture#6 - Mi Card Cond.](https://docs.google.com/presentation/d/1AdChnBW2iaRROs39UU2Wj4F3TZjKsjgAvTFNwMdLask/edit)
+* [Lecture#7 - Mi Card Final & Dicee Intro](https://docs.google.com/presentation/d/1NyFKAxSDnz4P7gAZYtj_ndkeEaUa18o4XeefL0l01Bc/edit)
+* [Lecture#8 - Dicee contd.](https://docs.google.com/presentation/d/1DxBA9WZ6M78kx-Wd521vedAbFk2JAxjpco8VSw47YL4/edit)
+* [Lecture#9,10,11,12,13 - Xylophone](https://docs.google.com/presentation/d/1sb4OEsG17AMLQpa4gi7geCmwuS79Exr-OYGqDWiIhtI/edit)
   * same due to Assignment# 2 inclass
-* [Lecture#14](https://docs.google.com/presentation/d/1HY7hQkdkMAYTzu0cz9NLxNXtJqy1hTQnHCGLI9L2FV0/edit)
-* [Lecture#15](https://docs.google.com/presentation/d/1dnuAIUaZdglsB9Kree91oiQyXFQXPIrTfA-Gr5En29w/edit)
-* [Git and Quizzler](https://docs.google.com/presentation/d/1Hn-DBUAkM7qB4Su4hSW_x1WCW1v-79W1VsWtYlQyURk/edit)
+* [Lecture#14 - Xylophone Contd.](https://docs.google.com/presentation/d/1HY7hQkdkMAYTzu0cz9NLxNXtJqy1hTQnHCGLI9L2FV0/edit)
+* [Lecture#15 - Git and Quizzler](https://docs.google.com/presentation/d/1dnuAIUaZdglsB9Kree91oiQyXFQXPIrTfA-Gr5En29w/edit)
+* [Git and Quizzler contd.](https://docs.google.com/presentation/d/1Hn-DBUAkM7qB4Su4hSW_x1WCW1v-79W1VsWtYlQyURk/edit)
+* [BMI Calculator](https://docs.google.com/presentation/d/1p5AJ5vYJOM8LgVH7ejEyTtzGvyzuwvH9bc-pPCoCnyU/edit)
 
 ### Introduction to Cross-Platform Development with Flutter and Dart
 
